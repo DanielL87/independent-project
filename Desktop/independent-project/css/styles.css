@@ -1,7 +1,74 @@
 body {
-   background-color: #cccccc;
+   background-color: #fff;
 }
 
 img.logo{
-  max-width: 150%;
+  max-width: 400px;
+  float: left;
+  margin-right: 30px;
+}
+
+.about{
+  margin-top: 20px;
+  float: left;
+}
+
+.header{
+  text-align: center;
+  font-style: italic;
+}
+
+h1.header{
+  font-size: 25px;
+}
+
+.headerlist{
+  font-size: 20px;
+}
+
+.history{
+  border: 2px solid black;
+  padding: 12px;
+  background-color: #4BC2ED;
+  border-radius: 15%;
+  margin-bottom: 25px;
+}
+
+.history h2{
+  font-size: 25px;
+  color: #ED704B;
+}
+
+.history p{
+  font-size: 20px;
+}
+
+img.shop{
+  max-width: 150px;
+  float: right;
+  margin-left: 12px;
+}
+
+
+.pitfalls{
+  float: right;
+  margin-top: 20px;
+}
+
+.solutions{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.konami{
+  margin-top: 40px;
+
+}
+
+.spell{
+  color: green;
+}
+
+.trap{
+  color: pink;
 }

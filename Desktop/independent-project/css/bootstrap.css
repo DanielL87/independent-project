@@ -5468,10 +5468,11 @@ button.list-group-item-danger.active:focus {
   color: inherit;
 }
 .panel-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 25px;
   color: inherit;
+  float: right;
 }
 .panel-title > a,
 .panel-title > small,
@@ -5829,6 +5830,7 @@ button.list-group-item-danger.active:focus {
 .well blockquote {
   border-color: #ddd;
   border-color: rgba(0, 0, 0, .15);
+  color: white;
 }
 .well-lg {
   padding: 24px;
