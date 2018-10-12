@@ -1,23 +1,23 @@
-# _{State of Duel Links}_
+# _{About my experience with Epicodus so far}_
 
-#### _{Blog describing the issues players are having with the game in detail}, {10.12.18}_
+#### _{Describes what I learned on week 1}, {10.12.18}_
 
 #### By _**{Daniel Lira}**_
 
 ## Description
 
-_{Trying to bring attention to some of the issues plaguing the community in an attempt to raise awareness and
-  bring it to Konami's attention }_
+_{Includes links so some of the basic projects Ive created. }_
 
 ## Setup/Installation Requirements
 
 * _Simply open and read, click links where applicable._
+*_ https://github.com/DanielL87/independent-project _
 
 
 ## Known Bugs
 
 _{N/A}_
-
+x
 ## Support and contact details
 
 _{Contact me at devidra87@gmail.com}_

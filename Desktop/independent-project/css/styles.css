@@ -3,28 +3,31 @@ body {
 }
 
 img.logo{
-  max-width: 400px;
+  max-width: 500px;
   float: left;
   margin-right: 30px;
 }
 
-.about{
+.about p{
   margin-top: 20px;
-  float: left;
+  float: right;
+  border: solid black;
+  background-color: gray;
+  font-size: 25px;
+  margin-bottom: 20px;
+  padding: 12px;
+  color: white;
+  border-radius: 20%
+
 }
 
 .header{
   text-align: center;
   font-style: italic;
+  font-size: 30px;
+  color: red;
 }
 
-h1.header{
-  font-size: 25px;
-}
-
-.headerlist{
-  font-size: 20px;
-}
 
 .history{
   border: 2px solid black;
@@ -44,7 +47,7 @@ h1.header{
 }
 
 img.shop{
-  max-width: 150px;
+  max-width: 200px;
   float: right;
   margin-left: 12px;
 }
@@ -61,15 +64,24 @@ img.shop{
   border: solid black;
 }
 
-.konami{
-  margin-top: 40px;
-
+.greeting li{
+  color: black;
+  font-size: 20px;
 }
 
-.spell{
+.name{
+  font-style: italic;
+  color: blue;
+}
+
+.final{
+  margin-top: 20px
+}
+
+.vacation{
+  color: red;
+
+}
+.band{
   color: green;
-}
-
-.trap{
-  color: pink;
 }
